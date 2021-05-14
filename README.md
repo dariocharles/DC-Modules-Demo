@@ -4,12 +4,6 @@
 
 In this assignemnt I worked with modules in order to create a function and call the function in a separate file. This is the file DC-Modules-Demo. I then cloned this file and named it DC-Packaged-Demo. In this file I worked with the package Colorama. 
 
-## Technologies
-![Python](https://docs.python.org/3/tutorial/)
-
-
-![Colorama](https://pypi.org/project/colorama/)
-
 ## Testing
 
 While coding, I tested my frequently to solve any bugs before continuing with my code.
