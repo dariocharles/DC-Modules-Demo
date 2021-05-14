@@ -7,6 +7,8 @@ In this assignemnt I worked with modules in order to create a function and call 
 ## Technologies
 
 ![Python](https://docs.python.org/3/tutorial/)
+
+
 ![Colorama](https://pypi.org/project/colorama/)
 
 ## Testing
