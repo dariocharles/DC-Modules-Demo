@@ -1,0 +1,1 @@
+print(Back.CYAN+"The factorial of 4 is:", number_sum(error_list))

@@ -1,3 +1,0 @@
-colorama
-
-# Link for colorama - http://pypi.org/project/colorama
