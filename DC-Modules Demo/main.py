@@ -7,14 +7,14 @@ from helpers_module import *
 
 # Calling
 # 1
-my_list = [4, 56, 2, 7]
+my_list = [67, 34, 78, 34, 12]
 print(number_sum(my_list)) 
 # 2
-empty_list = []
-print(number_sum(empty_list)) 
+# empty_list = []
+# print(number_sum(empty_list)) 
 # 3
-error_list = [34, 78, 45, 23, "d", "6"]
-print(number_sum(error_list)) 
+# error_list = [34, 78, 45, 23, "d", "6"]
+# print(number_sum(error_list)) 
 
 
 
